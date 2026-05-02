@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Wojtek 👋
 
-<!--
-**Wojzmuda/Wojzmuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at AGH University of Krakow bridging the gap between high-level logic and hardware performance. I primarily build in **Python** and **C++**, focusing my projects and interests around:
 
-Here are some ideas to get you started:
+* **Backend Development**
+* **Machine Learning**
+* **Embedded Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond building software, I am actively involved in academic research, currently exploring automated code evaluation engines and AI code similarity analysis.
+
+📫 **Let's connect:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wojciech-zmuda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.20.zmuda@gmail.com)
