@@ -1,6 +1,6 @@
 # Hi, I'm Wojtek 👋
 
-I'm a Computer Science student at AGH University of Krakow bridging the gap between high-level logic and hardware performance. I primarily build in **Python** and **C++**, focusing my projects and interests around:
+I'm a Computer Science & Artificial Inteligence student at AGH University of Krakow bridging the gap between high-level logic and hardware performance. I primarily build in **Python** and **C++**, focusing my projects and interests around:
 
 * **Backend Development**
 * **Machine Learning**
