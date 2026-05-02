@@ -1,12 +1,8 @@
 # Hi, I'm Wojtek 👋
 
-I'm a Computer Science & Artificial Inteligence student at AGH University of Krakow bridging the gap between high-level logic and hardware performance. I primarily build in **Python** and **C++**, focusing my projects and interests around:
+I'm a Computer Science & Artificial Intelligence student at AGH University of Krakow. I primarily work with **Python** and **C++**, focusing my projects and interests around **Backend Architecture**, **Machine Learning**, and **Embedded Systems**.
 
-* **Backend Development**
-* **Machine Learning**
-* **Embedded Systems**
-
-Beyond building software, I am actively involved in academic research, currently exploring automated code evaluation engines and AI code similarity analysis.
+Beyond standard software development, I am actively involved in academic research, currently focusing on automated code evaluation engines and AI code similarity analysis.
 
 📫 **Let's connect:**
 
